@@ -2,6 +2,8 @@
 
 **Nuvaa Focus** is a focus timer app designed to help users stay focused and manage their time effectively. It offers a clean, distraction-free interface and a range of features to optimize productivity, including customizable timers, task management, and ADHD-friendly themes.
 
+## 🔗 [Live preview](https://nuvaa-focus.vercel.app/)
+
 ## ⛵️ Navigating Around
 
 This repository is primarily a **showcase of the Nuvaa Focus**.  
