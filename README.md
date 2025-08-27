@@ -1,4 +1,4 @@
-# Nuvaa Focus [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)[![GitHub issues](https://img.shields.io/github/issues/catherineisonline/nuvaa-focus__showcase)](https://github.com/catherineisonline/nuvaa-focus__showcase/issues)[![GitHub stars](https://img.shields.io/github/stars/catherineisonline/nuvaa-focus__showcase)](https://github.com/catherineisonline/nuvaa-focus__showcase/stargazers)
+# Nuvaa Focus [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 **Nuvaa Focus** is a focus timer app designed to help users stay focused and manage their time effectively. It offers a clean, distraction-free interface and a range of features to optimize productivity, including customizable timers, task management, and ADHD-friendly themes.
 
